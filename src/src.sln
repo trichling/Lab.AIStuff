@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.AiStuff.Embeddings", "Lab.AiStuff.Embeddings\Lab.AiStuff.Embeddings.csproj", "{A2DBAD4D-5C95-428B-B33D-E54712E1D929}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.AiStuff.Summarizer", "Lab.AiStuff.Summarizer\Lab.AiStuff.Summarizer.csproj", "{D91A78B8-526C-4921-B48A-BB7F57A4BBB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2DBAD4D-5C95-428B-B33D-E54712E1D929}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2DBAD4D-5C95-428B-B33D-E54712E1D929}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2DBAD4D-5C95-428B-B33D-E54712E1D929}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2DBAD4D-5C95-428B-B33D-E54712E1D929}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D91A78B8-526C-4921-B48A-BB7F57A4BBB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D91A78B8-526C-4921-B48A-BB7F57A4BBB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D91A78B8-526C-4921-B48A-BB7F57A4BBB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D91A78B8-526C-4921-B48A-BB7F57A4BBB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
